@@ -15,7 +15,7 @@
       </div>
     </td>
     <td width="70%" align="left" valign="center">
-      <h1 style="margin: 0; color: #374151;"> Mayank (𝙼𝚊𝚢 𖠌)</h1>
+      <h1 style="margin: 0; color: #374151;"> Puneet (𝙼𝚊𝚢 𖠌)</h1>
 
 > **22 | e/λ | ml · swe · ロボ · qmech | intj · 🐈‍⬛ | ex-@orbitxindia | 8x hackathon wins**
 

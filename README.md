@@ -11,7 +11,7 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="./mayank123.png" alt="Mayank Pratap Singh - Steel Troops" width="185" height="185" style="border-radius: 50%; border: 3px solid #6B46C1; box-shadow: 0 0 20px rgba(107, 70, 193, 0.25);">
+        <img src="./puneet123.jpg" alt="Mayank Pratap Singh - Steel Troops" width="185" height="185" style="border-radius: 50%; border: 3px solid #6B46C1; box-shadow: 0 0 20px rgba(107, 70, 193, 0.25);">
       </div>
     </td>
     <td width="70%" align="left" valign="center">

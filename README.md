@@ -1,61 +1,81 @@
 <div align="center">
-  <img src="./banner.png" alt="Mayank Pratap Singh" width="100%">
+  <img src="./banner.png" alt="Puneet" width="100%">
 </div>
 
 <br>
 
+<div align="center">
+
+# Puneet
+
+**22** · **INTJ** · **e/λ** · **Swe · ML · Robotics**
+
+*"Engineering is the closest thing we have to rewriting reality."*
+
+<br>
+
+<a href="https://bento.me/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=bento&logoColor=white">
+</a>
+<a href="https://twitter.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://medium.com/@YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+---
+
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-## Hey, this is Mayank but you can call me May
+### ⚡ About Me
 
-> **22 | e/λ | ml · swe · robotics | intj · 🐈‍⬛**
+I break ideas apart until they reveal their real form. My work sits at the intersection of software, machine intelligence, and physical systems.
 
-- I read research papers for fun
-- I like building things that shouldn't exist yet
-- I enjoy terminals, small tools, and clean architectures
-- I like breaking ideas apart until they reveal their real form
+* 🔭 **Focus:** Research papers, systems architecture, robotics.
+* 🛠 **Approach:** Minimalist, first-principles thinking.
+* 🐈‍⬛ **Vibe:** Terminals, small tools, clean code.
 
 <br>
 
-> **Core Skills:**
+### 🧠 Core Arsenal
 
-**Languages:** Python, C++, TypeScript, JavaScript, Java, Go
-
-**Fullstack:** React, Next.js, Node.js, Nest.js, FastAPI, GraphQL, PostgreSQL, MongoDB, Redis
-
-**AI/ML:** PyTorch, TensorFlow, Hugging Face, OpenCV, Computer Vision, NLP, MLOps
-
-**Robotics:** ROS 2, Gazebo, MoveIt, Nav2, Control Systems, LiDAR, IMU, Real-time Linux
-
-**Tools:** AWS, GCP, Docker, Linux, Git
-
-> Philosophy: Engineering is the closest thing we have to rewriting reality
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | Python, C++, TypeScript, Go, Java |
+| **Robotics** | ROS 2, Gazebo, MoveIt, Nav2, LiDAR, SLAM |
+| **AI / ML** | PyTorch, TensorFlow, Hugging Face, OpenCV |
+| **Fullstack** | React, Next.js, Node.js, FastAPI, GraphQL |
+| **Backend** | PostgreSQL, Redis, MongoDB, Docker, AWS/GCP |
 
 </td>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
+
+<div align="center">
+<br>
+<img src="./Hodaka.gif" alt="Vibes" width="90%" style="border-radius: 8px;">
+</div>
+
 <br>
 
-<img src="./Hodaka.gif" alt="Vibes" width="100%">
+### 🏆 Milestones
+
+* **8x** Hackathon Winner
+* Founded a startup
+* Built a **7k+** member tech community
 
 <br>
-<br>
 
-<a href="https://bento.me/steeltroops"><img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"></a>
-
-
-**About:**
-- INTJ 🐈‍⬛
-- Loves building
-- Loves research
-- Strategic thinker
-- Minimalist approach
-
-**Achievements:**
-- 8x Hackathon Winner
-- Founded startup
-- 7k+ tech community
+> *"Simplicity is the ultimate sophistication."*
 
 </td>
 </tr>
@@ -63,50 +83,15 @@
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
 
-<table cellpadding="12" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-  </tr>
-</table>
+### 📊 Engineering Metrics
 
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://bento.me/steeltroops"><img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"></a>
-<a href="https://twitter.com/steeltroops_ai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/steeltroops-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://medium.com/@steeltroops"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://ko-fi.com/steeltroops"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true" height="170" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true" height="170" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=steeltroops-ai&label=Profile%20Views&color=blueviolet&style=flat">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat">
 
-</div>
-
-<br>
-
-<div align="center">
-  <em>"Simplicity is the ultimate sophistication."</em>
-  <br><br>
-  Star repos that resonate · Let's build something meaningful
 </div>

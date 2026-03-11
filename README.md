@@ -10,22 +10,22 @@
 
 ## Hey, I'm Puneet
 
-> **swe · fullstack · frontend · webar**
+> **Software Developer · Fullstack · WebAR · Web3D**
 
-- I build intelligent web platforms and automated workflows, such as SSISTUDIOS for design workflow automation.
-- I explore the intersection of web tech and interactive 3D, like building immersive WebAR experiences.
-- I enjoy clean architectures, performance optimization, and seamless UIs.
-- I turn complex problems into scalable, elegant solutions.
+- I build intelligent web platforms and automated workflows at **SS Innovations**.
+- I specialize in high-performance rendering engines and WebAR integration.
+- I enjoy clean architectures, performance optimization, and building tools that save time.
+- I turn complex technical requirements into scalable, production-ready solutions.
 
 <br>
 
 > **Core Skills:**
 
-**Frameworks & Languages:** Next.js, Nest.js, TypeScript, React.js, Node.js, Express.js, TailwindCss, JavaScript, BootStrap, Java, Rust (WASM), Python
+**Languages & Frameworks:** Next.js, Nest.js, TypeScript, React.js, Node.js, Express.js, TailwindCss, JavaScript, Java, Rust (WASM), Python
 
-**Databases & Tools:** MongoDB, AwsS3, MySQL, Aws SES, GITHub, Electron, Figma, Manual and Functional Testing
+**Databases & Tools:** MongoDB, AWS (S3, SES), MySQL, Git, Electron, Figma
 
-**Backend & Web3D:** FastAPI, WebGPU
+**Specialized Tech:** WebGPU, WebAR (SSI Mantra 3), Real-time Rendering Engines
 
 </td>
 <td width="35%" valign="top">
@@ -37,15 +37,15 @@
 <br>
 
 **About:**
-- Software Developer at SS Innovations International
-- B.Tech in Computer Science
-- Full-Stack & WebAR Enthusiast
-- Former SWE Intern at Disney+ Hotstar 
+- 👨‍💻 Software Developer @ SS Innovations
+- 🎓 B.Tech in Computer Science
+- 🚀 Built SSISTUDIOS & SMRSC2026
+- 🏢 Former Intern @ Disney+ Hotstar
 
 **Highlights:**
-- Built a real-time Interactive Black Hole Simulation
-- Engineered MediLens, a high-performance diagnostic platform
-- Built SMRSC2026 web platform for a global robotic surgery conference
+- **Black Hole Simulation:** Real-time ray-marching engine using Rust/WebGPU.
+- **SSISTUDIOS:** Automated design workflows, reducing production time from days to seconds.
+- **WebAR:** 3D medical robot visualization via mobile AR projection.
 
 </td>
 </tr>
@@ -56,23 +56,12 @@
 ## GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puneetshukla041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetshukla041&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
 
-<table cellpadding="12" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=puneetshukla&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puneetshukla&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puneetshukla&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneetshukla041&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -82,12 +71,12 @@
 <div align="center">
 
 <a href="mailto:puneetshukla041@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/puneetshukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/puneet-shukla-a04107222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://puneetportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=puneetshukla&label=Profile%20Views&color=blueviolet&style=flat">
+<img src="https://komarev.com/ghpvc/?username=puneetshukla041&label=Profile%20Views&color=blueviolet&style=flat">
 
 </div>
 

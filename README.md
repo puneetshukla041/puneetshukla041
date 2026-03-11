@@ -10,28 +10,22 @@
 
 ## Hey, I'm Puneet
 
-> **swe · fullstack · ai/ml · web3d**
+> **swe · fullstack · frontend · webar**
 
-- I build intelligent web platforms and automated workflows
-- I like exploring the intersection of web tech, AI, and interactive 3D
-- I enjoy clean architectures, performance optimization, and seamless UIs
-- I turn complex problems into scalable, elegant solutions
+- I build intelligent web platforms and automated workflows, such as SSISTUDIOS for design workflow automation.
+- I explore the intersection of web tech and interactive 3D, like building immersive WebAR experiences.
+- I enjoy clean architectures, performance optimization, and seamless UIs.
+- I turn complex problems into scalable, elegant solutions.
 
 <br>
 
 > **Core Skills:**
 
-**Languages:** TypeScript, JavaScript, Java, Rust (WASM), Python
+**Frameworks & Languages:** Next.js, Nest.js, TypeScript, React.js, Node.js, Express.js, TailwindCss, JavaScript, BootStrap, Java, Rust (WASM), Python
 
-**Fullstack:** React.js, Next.js, Node.js, Nest.js, Express.js, TailwindCSS, Bootstrap
+**Databases & Tools:** MongoDB, AwsS3, MySQL, Aws SES, GITHub, Electron, Figma, Manual and Functional Testing
 
-**Databases:** MongoDB, MySQL
-
-**Tools & Cloud:** AWS (S3, SES), WebGPU, GitHub, Electron, Figma
-
-**AI/ML:** FastAPI, ML Pipelines, Grad-CAM
-
-> Philosophy: Engineering is the closest thing we have to rewriting reality
+**Backend & Web3D:** FastAPI, WebGPU
 
 </td>
 <td width="35%" valign="top">
@@ -43,14 +37,15 @@
 <br>
 
 **About:**
-- Software Developer
-- B.Tech CS (AIML)
-- Full-stack & WebAR enthusiast 
+- Software Developer at SS Innovations International
+- B.Tech in Computer Science
+- Full-Stack & WebAR Enthusiast
+- Former SWE Intern at Disney+ Hotstar 
 
 **Highlights:**
-- Built multimodal AI Diagnostic Platform
-- Built real-time Relativistic Engine
-- Automated large-scale design workflows
+- Built a real-time Interactive Black Hole Simulation
+- Engineered MediLens, a high-performance diagnostic platform
+- Built SMRSC2026 web platform for a global robotic surgery conference
 
 </td>
 </tr>
@@ -88,6 +83,7 @@
 
 <a href="mailto:puneetshukla041@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/puneetshukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://puneetportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 <br><br>
 
